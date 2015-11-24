@@ -5,10 +5,12 @@
  */
 package vista;
 
+import javax.swing.JFrame;
+
 /**
  *
  * @author alf
  */
 public class VistaPrincipal {
-    
+    private JFrame jframe;
 }
