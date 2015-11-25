@@ -13,4 +13,5 @@ import javax.swing.JFrame;
  */
 public class VistaPrincipal {
     private JFrame jframe;
+    private JFrame jframe2;
 }
